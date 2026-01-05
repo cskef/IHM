@@ -1,0 +1,7 @@
+{
+  "name": "Compteur de Personnes AI",
+  "description": "Une application moderne pour compter automatiquement les personnes sur une photo en utilisant l'IA Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

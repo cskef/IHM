@@ -1,0 +1,24 @@
+{
+  "name": "compteur-personnes-ai",
+  "version": "1.0.0",
+  "description": "Application de comptage de personnes utilisant l'IA Gemini",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "npx servor . index.html 8080 --reload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "react",
+    "computer-vision"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
